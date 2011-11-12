@@ -3,5 +3,14 @@
 
     <string name="hello">Hello World, SBNActivity!</string>
     <string name="app_name">Krazy_Chat</string>
+    <string-array name="countries_array">
+        <item>Bahrain</item>
+        <item>Bangladesh</item>
+        <item>Barbados</item>
+        <item>Belarus</item>
+        <item>Belgium</item>
+        <item>Belize</item>
+        <item>Benin</item>
+    </string-array>
 
 </resources>
