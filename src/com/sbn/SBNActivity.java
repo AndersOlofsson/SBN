@@ -9,8 +9,6 @@ public class SBNActivity extends Activity {
    @Override
    public void onCreate(Bundle savedInstanceState) {
        super.onCreate(savedInstanceState);
-       TextView tv = new TextView(this);
-       tv.setText("SOLLEBUNN");
-       setContentView(tv);
+       setContentView(R.layout.main);
    }
 }
